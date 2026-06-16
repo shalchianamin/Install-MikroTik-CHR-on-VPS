@@ -39,8 +39,9 @@ For MikroTik 6.48.6
 ```
 
 For MikroTik 7.23.1
+```bash
 bash -c "$(curl -L https://raw.githubusercontent.com/shalchianamin/Install-MikroTik-CHR-on-VPS/refs/heads/main/chr-7-23-1.sh)"
-
+```
 
 After install be sure to turn off the server and turn on again
 ## Post installation settings
