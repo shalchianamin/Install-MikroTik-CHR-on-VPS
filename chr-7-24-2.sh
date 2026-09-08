@@ -1,5 +1,4 @@
 #!/bin/bash -e
-
 echo
 echo "=== azadrah.org ==="
 echo "=== https://github.com/azadrahorg ==="
